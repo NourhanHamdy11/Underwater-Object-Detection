@@ -154,14 +154,6 @@ Achieved higher precision than the available benchmark on the same dataset.
 
 ---
 
-## 👥 Team Members
-
-- Merna Mostafa
-- Norhan Hamdy
-- Youmna Yasser
-- Mariam Alaa
-
----
 
 ## 📌 Future Improvements
 
